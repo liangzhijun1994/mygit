@@ -15,9 +15,9 @@ b :dev2 also start
 
 a :dev2 also start
 
-<<<<<<< HEAD
+
 b:dev3 alos start
-=======
+
 
 a:dev3 start
->>>>>>> d811a27a0e2166e747ad6175235a3c046cb0ee99
+
